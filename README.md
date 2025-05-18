@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Story App - Submission
 
 Proyek ini merupakan aplikasi cerita (Story App) sebagai bagian dari submission Dicoding, menggunakan **Webpack** untuk proses bundling, **Babel** untuk transpile JavaScript modern, serta mendukung **Progressive Web App (PWA)** dan **IndexedDB** untuk penyimpanan offline.
@@ -91,3 +92,7 @@ story-app-submission/
 ---
 
 > Untuk melakukan deploy ke Netlify, jalankan `npm run build`, lalu upload folder `dist/` ke Netlify melalui metode drag-and-drop atau Git integration.
+=======
+# story-app-pwa
+Aplikasi Story App Submission Dicoding - Web App modern dengan Webpack, PWA, dan IndexedDB. Dibuat sebagai bagian dari submission kelas Menjadi Front-End Web Developer Expert.
+>>>>>>> b9797b53be9a2b6d154f046ec0799dcfddb6bb37
